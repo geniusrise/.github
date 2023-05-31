@@ -1,4 +1,4 @@
-# 🚀 Geniusrise
+# 🧠 Geniusrise
 
 Welcome to Geniusrise, an ambitious project aimed at creating "geniuses" - fine-tuned Language Learning Models (LLMs) that are more aligned to the organizations that use them.
 
