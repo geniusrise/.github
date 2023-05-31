@@ -1,17 +1,21 @@
 # 🧠 Geniusrise
 
-Welcome to Geniusrise, an ambitious project aimed at creating "geniuses" - fine-tuned Language Learning Models (LLMs) that are more aligned to the organizations that use them.
+![banner](../assets/grothendieck2.png)
 
-## 🎯 What is Geniusrise?
+Welcome to Geniusrise, where we're crafting the future of AI. Our mission? To create a "connected genius" - an AI that's not just smart, but also aware and adaptive.
 
-Geniusrise is a project that integrates data from various services and prepares and fine-tunes LLMs. The goal is to create models that are more tailored and effective for specific organizational needs. By leveraging the power of AI and machine learning, Geniusrise aims to revolutionize how organizations interact with and utilize AI models.
+## 🎯 The Connected Genius
 
-## 🌐 Data Integration
+At Geniusrise, we're developing an AI that's more than just a tool - it's a partner. Our "genius" doesn't just process data; it understands context, adapts to its environment, and learns from every interaction. It's not just about intelligence; it's about connection.
 
-At the heart of Geniusrise is the ability to pull data from a wide array of sources. This includes communication platforms, project management tools, document management systems, code hosting platforms, customer support platforms, and CRM systems. This data is then used to inform and guide the fine-tuning of LLMs.
+## 🌐 A World of Data
 
-## 🎛️ Fine-Tuning Process
+Our genius thrives on data. It integrates information from a myriad of sources - communication platforms, project management tools, document management systems, and more. It uses this data to understand its environment, adapt to changes, and provide the most relevant and effective solutions.
 
-The fine-tuning process involves using the integrated data to generate prompts, which are then used to fine-tune the target LLM. This results in a model that is more aligned and effective for the specific tasks and needs of an organization.
+## 🎛️ The Art of Fine-Tuning
 
-Join us on this exciting journey to create "geniuses"! 🎉
+The genius is not born; it's made. Through a meticulous fine-tuning process, we shape our genius to fit the unique needs of each organization. Using integrated data to generate prompts, we fine-tune our target model, creating an AI that's not just smart, but also intuitive and adaptive.
+
+## 🚀 The Future is Now
+
+The future of AI is here, and it's called Geniusrise. Prepare for the rise of the "geniuses". 🎉
