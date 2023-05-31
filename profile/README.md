@@ -1,6 +1,6 @@
 # 🧠 Geniusrise
 
-#+html: <p align="center"><img src="../assets/grothendieck2.png" /></p>
+#+html: <p align="center"><img src="assets/grothendieck2.png" /></p>
 
 
 Welcome to Geniusrise, where we're crafting the future of AI. Our mission? To create a "connected genius" - an AI that's not just smart, but also aware and adaptive.
