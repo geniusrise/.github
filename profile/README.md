@@ -12,3 +12,5 @@ At Geniusrise, we're developing an AI that's more than just a tool - it's a part
 ### 🚀 The Future is Now
 
 The future of AI is here, and it's called Geniusrise. Prepare for the rise of the "geniuses". 🎉
+
+Pictured: Alexander Grothendieck.
