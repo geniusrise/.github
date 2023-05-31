@@ -1,5 +1,7 @@
 # 🧠 Geniusrise
 
+#+caption: <img description> (optional)
+#+attr_html: :height 100 px
 ![banner](../assets/grothendieck2.png)
 
 Welcome to Geniusrise, where we're crafting the future of AI. Our mission? To create a "connected genius" - an AI that's not just smart, but also aware and adaptive.
