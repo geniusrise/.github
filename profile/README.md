@@ -1,6 +1,6 @@
 # 🧠 Geniusrise
 
-![banner](https://raw.githubusercontent.com/geniusrise/.github/main/profile/assets/eisntein2.png)
+![banner](https://raw.githubusercontent.com/geniusrise/.github/main/profile/assets/einstein2.png)
 
 
 Welcome to Geniusrise, where we're crafting the future of AI. Our mission? To create a "connected genius" - an AI that's not just smart, but also aware and adaptive.
