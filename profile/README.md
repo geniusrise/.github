@@ -10,8 +10,6 @@ To make quality artificial intelligence tooling accessible to everyone, by build
 
 To become the hub of production-grade AI agents.
 
-## Building blocks of AI
-
 ![banner](https://raw.githubusercontent.com/geniusrise/.github/main/profile/assets/grothendieck2.jpg)
 
 Pictured: Alexander Grothendieck.
