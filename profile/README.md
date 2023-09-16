@@ -10,7 +10,8 @@ To make quality artificial intelligence tooling accessible to everyone, by build
 
 To become the hub of production-grade AI agents.
 
-![banner](https://raw.githubusercontent.com/geniusrise/.github/main/profile/assets/grothendieck2.jpg)
+![cyberpunk_Werner_Heisenberg_working_on_quantum_mechanics_at_a_monastery-4c74e686-1da8-48ba-bd9f-1caa09b69437](https://github.com/geniusrise/.github/assets/144122/215c14d2-1217-42f1-bf4a-08d16098e6a8)
+
 
 ## Pillars of the project
 
@@ -45,4 +46,4 @@ We are committed to maintaining the highest standards of quality and security in
 By following these pillars, we believe that we can create a lasting impact on the field of AI building blocks. We hope to become the go-to resource for anyone looking for high-quality, production-grade tools for building AI agents.
 
 
-<sub><sup>Pictured: Alexander Grothendieck.</sup></sub>
+<sub><sup>Pictured: Werner Heisenberg.</sup></sub>
