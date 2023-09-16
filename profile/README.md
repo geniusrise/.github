@@ -1,6 +1,6 @@
-# Building blocks of AI
-
 ![logo_with_text](https://github.com/geniusrise/.github/assets/144122/2f8e51ee-0fcd-4f74-90fd-97301ef7943d)
+
+# Building blocks of AI
 
 ## Mission
 
