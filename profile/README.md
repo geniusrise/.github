@@ -1,19 +1,14 @@
-# 🧠 Geniusrise
+
+![logo_with_text](https://github.com/geniusrise/.github/assets/144122/2f8e51ee-0fcd-4f74-90fd-97301ef7943d)
 
 ![banner](https://raw.githubusercontent.com/geniusrise/.github/main/profile/assets/grothendieck2.jpg)
 
-Welcome to Geniusrise, where we're crafting the future of AI.
-
-### 🎯 The Connected Genius
-
-At Geniusrise, we're developing an AI that's more than just a tool - it's a
-partner. Our "genius" doesn't just process data; it understands context, adapts
-to its environment, and learns from every interaction. It's not just about
-intelligence; it's about connection.
-
-### 🚀 The Future is Now
-
-The future of AI is here, and it's called Geniusrise. Prepare for the rise of
-the "geniuses". 🎉
-
 Pictured: Alexander Grothendieck.
+
+# Mission
+
+To make quality artificial intelligence tooling accessible to everyone, by building an ecosystem of building blocks that enable each participant to take advantage of their expertise and share it with the greater community.
+
+# Vision 
+
+To become the hub of production-grade AI agents.
