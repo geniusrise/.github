@@ -12,8 +12,6 @@ To become the hub of production-grade AI agents.
 
 ![banner](https://raw.githubusercontent.com/geniusrise/.github/main/profile/assets/grothendieck2.jpg)
 
-Pictured: Alexander Grothendieck.
-
 ## Pillars of the project
 
 - Open-source, production-grade code
@@ -45,3 +43,6 @@ We are committed to maintaining the highest standards of quality and security in
 ## The future of AI building blocks
 
 By following these pillars, we believe that we can create a lasting impact on the field of AI building blocks. We hope to become the go-to resource for anyone looking for high-quality, production-grade tools for building AI agents.
+
+
+<sub><sup>Pictured: Alexander Grothendieck.</sup></sub>
