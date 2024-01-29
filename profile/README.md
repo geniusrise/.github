@@ -1,6 +1,6 @@
 ![logo_with_text](https://github.com/geniusrise/.github/assets/144122/2f8e51ee-0fcd-4f74-90fd-97301ef7943d)
 
-# Building blocks of AI
+# AI Ecosystem
 
 <h2 align="center">
   <a style="color:#f34960" href="https://docs.geniusrise.ai">Documentation</a>
