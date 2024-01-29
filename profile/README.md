@@ -40,5 +40,6 @@ Geniusrise is powered by its components:
 
 - **Website**: [geniusrise.ai](https://geniusrise.ai)
 - **Docs**: [docs.geniusrise.ai](https://docs.geniusrise.ai)
+- **Examples**: [geniusrise/examples](https://github.com/geniusrise/examples)
 - **Cloud**: [geniusrise.com](https://geniusrise.com)
 
