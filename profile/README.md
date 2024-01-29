@@ -4,7 +4,9 @@
 
 <h2 align="center">
   <a style="color:#f34960" href="https://docs.geniusrise.ai">Documentation</a>
+  ||
   <a style="color:#f34960" href="https://github.com/geniusrise/examples">Examples</a>
+  ||
   <a style="color:#f34960" href="https://geniusrise.com">Cloud</a>
 </h2>
 
