@@ -1,16 +1,16 @@
 ![logo_with_text](https://github.com/geniusrise/.github/assets/144122/2f8e51ee-0fcd-4f74-90fd-97301ef7943d)
 
-## AI Ecosystem
+### AI Ecosystem
 
-<h2 align="center">
+<h3 align="center">
   <a style="color:#f34960" href="https://docs.geniusrise.ai">Documentation</a>
   ||
   <a style="color:#f34960" href="https://github.com/geniusrise/examples">Examples</a>
   ||
   <a style="color:#f34960" href="https://geniusrise.com">Cloud</a>
-</h2>
+</h3>
 
-## <span style="color:#e667aa">About</span>
+### <span style="color:#e667aa">About</span>
 
 <span style="color:#e4e48c">Geniusrise</span> is a modular, loosely-coupled
 AgentOps / MLOps framework designed for the era of Large Language Models,
@@ -40,7 +40,7 @@ Geniusrise is powered by its components:
 - [geniusrise-listeners](https://github.com/geniusrise/geniusrise-listeners): Streaming data ingestion
 - [geniusrise-databases](https://github.com/geniusrise/geniusrise-databases): Bulk data ingestion
 
-## <span style="color:#e667aa">Links</span>
+### <span style="color:#e667aa">Links</span>
 
 - **Website**: [geniusrise.ai](https://geniusrise.ai)
 - **Docs**: [docs.geniusrise.ai](https://docs.geniusrise.ai)
