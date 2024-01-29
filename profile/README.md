@@ -19,6 +19,23 @@ levels. With its plug-and-play architecture,
 <span style="color:#e4e48c">Geniusrise</span> empowers teams to build, share,
 and deploy AI agent workflows across various platforms.
 
+Geniusrise is powered by its components:
+
+- [geniusrise-text](https://github.com/geniusrise/geniusrise-text): Text components offerring:
+  - Inference APIs
+  - Bulk inference
+  - Fine-tuning
+- [geniusrise-audio](https://github.com/geniusrise/geniusrise-audio): Audio components offerring:
+  - Inference APIs
+  - Bulk inference
+  - Fine-tuning
+- [geniusrise-vision](https://github.com/geniusrise/geniusrise-vision): Vision components offerring:
+  - Inference APIs
+  - Bulk inference
+  - Fine-tuning
+- [geniusrise-listeners](https://github.com/geniusrise/geniusrise-listeners): Streaming data ingestion
+- [geniusrise-databases](https://github.com/geniusrise/geniusrise-databases): Bulk data ingestion
+
 ## <span style="color:#e667aa">Links</span>
 
 - **Website**: [geniusrise.ai](https://geniusrise.ai)
