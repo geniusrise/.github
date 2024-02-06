@@ -18,7 +18,7 @@ offering flexibility and standardization in designing networks of
 AI agents.
 
 It defines components and orchestrates them providing observability, state management and data handling,
-all while supporting diverse infrastructures. With its mmodular architecture,
+all while supporting diverse infrastructures. With its modular and unopinonated architecture,
 <span style="color:#e4e48c">Geniusrise</span> empowers teams to build, share,
 and deploy AI across various platforms.
 
