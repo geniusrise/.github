@@ -13,15 +13,14 @@
 ### <span style="color:#e667aa">About</span>
 
 <span style="color:#e4e48c">Geniusrise</span> is a modular, loosely-coupled
-AgentOps / MLOps framework designed for the era of Large Language Models,
-offering flexibility, inclusivity, and standardization in designing networks of
+MLOps framework designed for the era of Large Language Models,
+offering flexibility and standardization in designing networks of
 AI agents.
 
-It seamlessly integrates tasks, state management, data handling, and model
-versioning, all while supporting diverse infrastructures and user expertise
-levels. With its plug-and-play architecture,
+It defines components and orchestrates them providing observability, state management and data handling,
+all while supporting diverse infrastructures. With its mmodular architecture,
 <span style="color:#e4e48c">Geniusrise</span> empowers teams to build, share,
-and deploy AI agent workflows across various platforms.
+and deploy AI across various platforms.
 
 Geniusrise is powered by its components:
 
