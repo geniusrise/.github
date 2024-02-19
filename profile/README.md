@@ -35,7 +35,9 @@ Say, we are interested in running an API over a vision / multi-modal model such 
 
 ```bash
 pip install geniusrise
-pip install geniusrise-vision
+pip install geniusrise-vision # vision multi-modal models
+# pip install geniusrise-text # text models, LLMs
+# pip install geniusrise-audio # audio models
 ```
 
 ### 2. Use the genius cli to run bakLlava
