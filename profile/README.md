@@ -82,6 +82,10 @@ curl -X POST http://localhost:3000/api/v1/answer_question \
     -d @/tmp/image_payload.json | jq
 ```
 
+# Explore
+
+There are over 150 examples for [text](https://github.com/geniusrise/examples/tree/master/cli/api/text), [vision](https://github.com/geniusrise/examples/tree/master/cli/api/vision) and [audio](https://github.com/geniusrise/examples/tree/master/cli/api/audio).
+
 ### <span style="color:#e667aa">Links</span>
 
 - **Website**: [geniusrise.ai](https://geniusrise.ai)
