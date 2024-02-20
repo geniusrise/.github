@@ -99,6 +99,7 @@ curl -X POST http://localhost:3000/api/v1/answer_question \
 
 # Explore
 
+See [usage](https://docs.geniusrise.ai/guides/usage/) for more advanced examples.
 There are over 150 examples for [text](https://github.com/geniusrise/examples/tree/master/cli/api/text), [vision](https://github.com/geniusrise/examples/tree/master/cli/api/vision) and [audio](https://github.com/geniusrise/examples/tree/master/cli/api/audio).
 
 ### <span style="color:#e667aa">Links</span>
