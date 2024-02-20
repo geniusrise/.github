@@ -39,32 +39,49 @@ pip install geniusrise-vision # vision multi-modal models
 
 ### 2. Use the genius cli to run bakLlava
 
+Create a YAML file named `genius.yml`:
+
+```yaml
+version: '1'
+
+bolts:
+    my_bolt:
+        name: VisualQAAPI
+        state:
+            type: none
+        input:
+            type: batch
+            args:
+                input_folder: ./input
+        output:
+            type: batch
+            args:
+                output_folder: ./output
+        method: listen
+        args:
+            model_name: 'llava-hf/bakLlava-v1-hf'
+            model_class: 'LlavaForConditionalGeneration'
+            processor_class: 'AutoProcessor'
+            device_map: 'cuda:0'
+            use_cuda: True
+            precision: 'bfloat16'
+            quantization: 0
+            max_memory: None
+            torchscript: False
+            compile: False
+            flash_attention: False
+            better_transformers: False
+            endpoint: '*'
+            port: 3000
+            cors_domain: 'http://localhost:3000'
+            username: 'user'
+            password: 'password'
+```
+
+Navigate to the directory and do:
+
 ```bash
-genius VisualQAAPI rise \
-    batch \
-        --input_folder ./input \
-    batch \
-        --output_folder ./output \
-    none \
-    listen \
-        --args \
-            model_name="llava-hf/bakLlava-v1-hf" \
-            model_class="LlavaForConditionalGeneration" \
-            processor_class="AutoProcessor" \
-            device_map="cuda:0" \
-            use_cuda=True \
-            precision="bfloat16" \
-            quantization=0 \
-            max_memory=None \
-            torchscript=False \
-            compile=False \
-            flash_attention=False \
-            better_transformers=False \
-            endpoint="*" \
-            port=3000 \
-            cors_domain="http://localhost:3000" \
-            username="user" \
-            password="password"
+genius rise
 ```
 
 ### 3. Test the API
