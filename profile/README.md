@@ -1,6 +1,6 @@
 ![logo_with_text](https://github.com/geniusrise/.github/assets/144122/2f8e51ee-0fcd-4f74-90fd-97301ef7943d)
 
-### AI Ecosystem
+### AI Microservices Ecosystem
 
 <h3 align="center">
   <a style="color:#f34960" href="https://docs.geniusrise.ai">Documentation</a>
@@ -12,11 +12,11 @@
 
 ### <span style="color:#e667aa">About</span>
 
-<span style="color:#e4e48c">Geniusrise</span> is a modular, loosely-coupled AI-Ops framework.
+<span style="color:#e4e48c">Geniusrise</span> is a modular, loosely-coupled AI-microservices framework.
 
 It can be used to perform various tasks, including hosting inference endpoints, performing bulk inference, fine tune etc with open source models or closed source APIs.
 
-- **The framework** provides structure for modules and operates and orchestrates them.
+- **The framework** provides structure for modules and operationalizes and orchestrates them.
 - **The modular ecosystem** provides a layer of abstraction over the myriad of models, libraries, tools, parameters and optimizations underlying the operationalization of modern AI models.
 
 # Usage
