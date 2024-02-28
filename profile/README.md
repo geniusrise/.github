@@ -7,6 +7,8 @@
   ||
   <a style="color:#f34960" href="https://github.com/geniusrise/examples">Examples</a>
   ||
+  <a style="color:#f34960" href="https://www.youtube.com/@geniusrise">Youtube</a>
+  ||
   <a style="color:#f34960" href="https://geniusrise.com">Cloud</a>
 </h3>
 
