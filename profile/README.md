@@ -36,3 +36,20 @@ There are [blog articles](https://docs.geniusrise.ai) for each category of task 
 - **Examples**: [geniusrise/examples](https://github.com/geniusrise/examples)
 - **Cloud**: [geniusrise.com](https://geniusrise.com)
 
+# Supports
+
+- [pytorch](https://github.com/pytorch/pytorch)
+- [transformers](https://github.com/huggingface/transformers)
+- [peft](https://github.com/huggingface/peft)
+- [accelerate](https://github.com/huggingface/accelerate)
+- [DeepSpeed](https://github.com/microsoft/DeepSpeed)
+- [bitsandbytes](https://github.com/TimDettmers/bitsandbytes)
+- [AutoAWQ](https://github.com/casper-hansen/AutoAWQ)
+- [AutoGPTQ](https://github.com/AutoGPTQ/AutoGPTQ)
+- [flash-attention](https://github.com/Dao-AILab/flash-attention)
+- [vllm](https://github.com/vllm-project/vllm)
+- [llama-cpp-python](https://github.com/abetlen/llama-cpp-python)
+- [llama.cpp](https://github.com/ggerganov/llama.cpp)
+- [whispercpp](https://github.com/aarnphm/whispercpp)
+- [whisper.cpp](https://github.com/ggerganov/whisper.cpp)
+- [faster-whisper](https://github.com/SYSTRAN/faster-whisper)
