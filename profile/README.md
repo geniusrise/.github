@@ -9,7 +9,7 @@
   ||
   <a style="color:#f34960" href="https://www.youtube.com/@geniusrise">Youtube</a>
   ||
-  <a style="color:#f34960" href="https://hub.docker.com/repositories/geniusrise">Docker</a>
+  <a style="color:#f34960" href="https://hub.docker.com/u/geniusrise">Docker</a>
 </h3>
 
 ### <span style="color:#e667aa">About</span>
