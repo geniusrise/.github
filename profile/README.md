@@ -2,8 +2,10 @@
 
 ### AI Microservices Ecosystem
 
+<br/>
+
 <h3 align="center">
-  <a style="color:#f34960" href="https://docs.geniusrise.ai">Documentation</a>
+  <a style="color:#f34960" href="https://docs.geniusrise.ai">Docs</a>
   ||
   <a style="color:#f34960" href="https://github.com/geniusrise/examples">Examples</a>
   ||
@@ -12,14 +14,24 @@
   <a style="color:#f34960" href="https://hub.docker.com/u/geniusrise">Docker</a>
 </h3>
 
-### <span style="color:#e667aa">About</span>
+<br/>
 
-<span style="color:#e4e48c">Geniusrise</span> is a modular, loosely-coupled AI-microservices framework.
+### Run open source models on different inference engines with YAML configs on local or cloud.
 
-It can be used to perform various tasks, including hosting inference endpoints, performing bulk inference, fine tune etc with open source models or closed source APIs.
+<br/>
 
-- **The framework** provides structure for modules and operationalizes and orchestrates them.
-- **The modular ecosystem** provides a layer of abstraction over the myriad of models, libraries, tools, parameters and optimizations underlying the operationalization of modern AI models.
+# Capabilities
+
+We support hosting models in two ways:
+1. APIs
+2. Bulk jobs
+
+on the following systems:
+
+1. Kubernetes
+2. Openstack
+
+Current direction of the project is to be the open source alternative to [NVIDIA NIM](https://nvidianews.nvidia.com/news/generative-ai-microservices-for-developers) and have support for multiple architectures and inference engines.
 
 # Usage
 
@@ -53,3 +65,13 @@ There are [blog articles](https://docs.geniusrise.ai) for each category of task 
 - [whispercpp](https://github.com/aarnphm/whispercpp)
 - [whisper.cpp](https://github.com/ggerganov/whisper.cpp)
 - [faster-whisper](https://github.com/SYSTRAN/faster-whisper)
+
+# License
+
+The entire project is Apache 2.0 licensed.
+
+# Contribute
+
+Take a look at [good first issues](https://github.com/orgs/geniusrise/projects/3/views/2?visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C%22Labels%22%5D&filterQuery=label%3A%22good+first+issue%22) or [help wanted](https://github.com/orgs/geniusrise/projects/3/views/2?visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C%22Labels%22%5D&filterQuery=label%3A%22help+wanted%22) on the [board](https://github.com/orgs/geniusrise/projects/3/views/1).
+
+Or feel free to contact at ixaxaar@geniusrise.ai for more.
