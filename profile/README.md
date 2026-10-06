@@ -1,77 +1,34 @@
 ![logo_with_text](https://github.com/geniusrise/.github/assets/144122/2f8e51ee-0fcd-4f74-90fd-97301ef7943d)
 
-### AI Microservices Ecosystem
+# geniusrise
 
-<br/>
+**Run open LLM, STT and TTS models on infrastructure you control.**
+
+One binary, one yaml file, one OpenAI-compatible endpoint that autoscales inside a hard budget — no kubernetes, no NAT gateways, no hosted backend.
+
+```bash
+curl -fsSL https://geniusrise.com/install.sh | sh
+geniusrise init && geniusrise plan && geniusrise apply
+```
 
 <h3 align="center">
-  <a style="color:#f34960" href="https://docs.geniusrise.ai">Docs</a>
+  <a href="https://docs.geniusrise.com">Docs</a>
   ||
-  <a style="color:#f34960" href="https://github.com/geniusrise/examples">Examples</a>
+  <a href="https://geniusrise.com">Website</a>
   ||
-  <a style="color:#f34960" href="https://www.youtube.com/@geniusrise">Youtube</a>
-  ||
-  <a style="color:#f34960" href="https://hub.docker.com/u/geniusrise">Docker</a>
+  <a href="https://github.com/geniusrise/geniusrise">GitHub</a>
 </h3>
 
-<br/>
+## What we build
 
-### Run open source models on different inference engines with YAML configs on local or cloud.
+| repo | what it is |
+|---|---|
+| [geniusrise/geniusrise](https://github.com/geniusrise/geniusrise) | the product: a single Go binary that is the CLI, the local GUI, the in-cloud gateway and the node agent |
+| [geniusrise/geniusrise.com](https://github.com/geniusrise/geniusrise.com) | landing page |
+| [geniusrise/docs](https://github.com/geniusrise/docs) | docs at [docs.geniusrise.com](https://docs.geniusrise.com) |
 
-<br/>
+The idea: a standard IT generalist — an ISP, a community, a small company — can host open models for their people the way cable TV once distributed channels. Your `deploy.yaml` is the only state you own: a list of curated models, API keys and one budget number. GPU nodes open zero inbound ports and dial the gateway over mTLS, so homelabs behind NAT work too.
 
-# Capabilities
+Most older repositories here are archived history from an earlier, kubernetes-flavored incarnation of the idea. The current system is a lean Go rewrite — see the [design spec](https://github.com/geniusrise/geniusrise/blob/master/docs/superpowers/specs/) and [architecture docs](https://docs.geniusrise.com/architecture/).
 
-We support hosting models in two ways:
-1. APIs
-2. Bulk jobs
-
-on the following systems:
-
-1. Kubernetes
-2. Openstack
-
-Current direction of the project is to be the open source alternative to [NVIDIA NIM](https://nvidianews.nvidia.com/news/generative-ai-microservices-for-developers) and have support for multiple architectures and inference engines.
-
-# Usage
-
-Read the [TLDR](https://docs.geniusrise.ai/guides/usage/) usage guide.
-
-# Explore
-
-There are [blog articles](https://docs.geniusrise.ai) for each category of task accompanied with [youtube videos](https://www.youtube.com/@geniusrise) and over 300 examples for [text](https://github.com/geniusrise/examples/tree/master/cli/api/text), [vision](https://github.com/geniusrise/examples/tree/master/cli/api/vision) and [audio](https://github.com/geniusrise/examples/tree/master/cli/api/audio) models.
-
-### <span style="color:#e667aa">Links</span>
-
-- **Website**: [geniusrise.ai](https://geniusrise.ai)
-- **Docs**: [docs.geniusrise.ai](https://docs.geniusrise.ai)
-- **Examples**: [geniusrise/examples](https://github.com/geniusrise/examples)
-- **Cloud**: [geniusrise.com](https://geniusrise.com)
-
-# Supports
-
-- [pytorch](https://github.com/pytorch/pytorch)
-- [transformers](https://github.com/huggingface/transformers)
-- [peft](https://github.com/huggingface/peft)
-- [accelerate](https://github.com/huggingface/accelerate)
-- [DeepSpeed](https://github.com/microsoft/DeepSpeed)
-- [bitsandbytes](https://github.com/TimDettmers/bitsandbytes)
-- [AutoAWQ](https://github.com/casper-hansen/AutoAWQ)
-- [AutoGPTQ](https://github.com/AutoGPTQ/AutoGPTQ)
-- [flash-attention](https://github.com/Dao-AILab/flash-attention)
-- [vllm](https://github.com/vllm-project/vllm)
-- [llama-cpp-python](https://github.com/abetlen/llama-cpp-python)
-- [llama.cpp](https://github.com/ggerganov/llama.cpp)
-- [whispercpp](https://github.com/aarnphm/whispercpp)
-- [whisper.cpp](https://github.com/ggerganov/whisper.cpp)
-- [faster-whisper](https://github.com/SYSTRAN/faster-whisper)
-
-# License
-
-The entire project is Apache 2.0 licensed.
-
-# Contribute
-
-Take a look at [good first issues](https://github.com/orgs/geniusrise/projects/3/views/2?visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C%22Labels%22%5D&filterQuery=label%3A%22good+first+issue%22) or [help wanted](https://github.com/orgs/geniusrise/projects/3/views/2?visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C%22Labels%22%5D&filterQuery=label%3A%22help+wanted%22) on the [board](https://github.com/orgs/geniusrise/projects/3/views/1).
-
-Or feel free to contact at ixaxaar@geniusrise.ai for more.
+Apache-2.0.
